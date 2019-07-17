@@ -7,9 +7,9 @@
  * Licensed under the GNU GPL. For full terms see the file LICENSE.
  *
  * @package   OpenClinic
- * @copyright 2002-2007 jact
+ * @copyright 2002-2019 jact
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL
- * @version   CVS: $Id: database_constants.php,v 1.2 2007/10/29 20:05:16 jact Exp $
+ * @version   CVS: $Id: wizard.php,v 1.39 2013/08/31 09:21:56 jact Exp $
  * @author    jact <jachavar@gmail.com>
  */
 

@@ -440,7 +440,7 @@ class HTML
     {
       foreach ($arg as $_key => $_value)
       {
-        $_query[] = urlencode($_key) . '=' . urlencode($_value);
+        $_query .= urlencode($_key) . '=' . urlencode($_value);
       }
       $_query = '?' . implode('&', $_query);
     }

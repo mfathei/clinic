@@ -293,7 +293,6 @@ class DbConnection
     }
 
     $this->_result = mysql_query($sql, $this->_link);
-    var_dump($sql);
     if ($this->_result == false)
     {
       $this->_error = "Unable to execute query.";
